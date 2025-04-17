@@ -1,6 +1,6 @@
 package com.aluracursos.screenmatch.modelos;
 
-import com.aluracursos.screenmacth.calculos.Clasificacion;
+import com.aluracursos.screenmatch.calculos.Clasificacion;
 
 public class Episodio implements Clasificacion {
     private int numero;

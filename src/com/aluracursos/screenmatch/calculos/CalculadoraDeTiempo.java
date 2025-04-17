@@ -1,4 +1,4 @@
-package com.aluracursos.screenmacth.calculos;
+package com.aluracursos.screenmatch.calculos;
 
 import com.aluracursos.screenmatch.modelos.Titulo;
 
